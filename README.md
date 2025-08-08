@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+- 🔗 [My blog](https://vieitesss.github.io)
+- 💼 DevOps Engineer (>1 years)
+- 😍 Neovim user (~5 years)
+- 💻 Terminal
+- 🐳 Docker
+- ⚓ Kubernetes
+- 🚀 Dagger
+- 📜 Scripting
+- 💙 Go
+- 👊 Bash
 <!--
 **vieitesss/vieitesss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
