@@ -10,6 +10,11 @@
 - 📜 Scripting
 - 💙 Go
 - 👊 Bash
+
+- 📖 Reading
+- 🖋️ Writing
+- 🧗‍♂️ Climbing
+- 🏋️‍♂️ Gym
 <!--
 **vieitesss/vieitesss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
