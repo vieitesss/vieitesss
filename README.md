@@ -10,7 +10,7 @@
 - 📜 Scripting
 - 💙 Go
 - 👊 Bash
-
+---
 - 📖 Reading
 - 🖋️ Writing
 - 🧗‍♂️ Climbing
