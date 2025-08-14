@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vieitesss&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=gruvbox&border_radius=0&hide_border=true" /><img alt="alvaro17f's github stats" src="https://github-readme-stats.vercel.app/api?username=alvaro17f&show=reviews&hide=stars&show_icons=true&hide_title=true&rank_icon=percentile&text_bold=false&title_color=1155aa&text_color=666666&icon_color=66ccff&hide_border=true" /></picture>
+</p>
+
+<p align="center">
+  <a href="https://yhype.me"><img src="https://komarev.com/ghpvc/?username=vieitesss&color=66ccff" /></a>
+</p>
+
+---
 - 📑 [My blog](https://vieitesss.github.io)
 - 🟦 [LinkedIn](https://www.linkedin.com/in/daniel-vieites/)
 - 📩 [Mail](mailto:dviteitest@gmail.com)
