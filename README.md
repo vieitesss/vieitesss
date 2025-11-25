@@ -9,15 +9,16 @@
 </p>
 
 ---
-- 📑 [**My blog**](https://vieitesss.github.io)
-- 🟦 [**LinkedIn**](https://www.linkedin.com/in/daniel-vieites/)
-- 📩 [**Mail**](mailto:dviteitest@gmail.com)
+#### 📑 [**My blog**](https://vieitesss.github.io)
+#### 🟦 [**LinkedIn**](https://www.linkedin.com/in/daniel-vieites/)
+#### 📩 [**Mail**](mailto:dviteitest@gmail.com)
 ---
-- 💼 DevOps Engineer (>1 years)
-- 😍 Neovim user (~5 years)
+- 💼 Platform Engineer (>1 years)
+- 😍 Neovim user (>5 years)
 - 💻 Terminal
 - 🐳 Docker
 - ⚓ Kubernetes
+- ⛵ Helm
 - 🚀 Dagger
 - 📜 Scripting
 - 💙 Go
