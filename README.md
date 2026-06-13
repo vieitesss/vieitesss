@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vieitesss&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=gruvbox&border_radius=0&hide_border=true" /><img alt="vieitesss's github stats" src="https://github-readme-stats.vercel.app/api?username=alvaro17f&show=reviews&hide=stars&show_icons=true&hide_title=true&rank_icon=percentile&text_bold=false&title_color=1155aa&text_color=666666&icon_color=66ccff&hide_border=true" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vieitesss&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=gruvbox&border_radius=0&hide_border=true" /><img alt="vieitesss's github stats" src="https://github-readme-stats.vercel.app/api?username=vieitesssf&show=reviews&hide=stars&show_icons=true&hide_title=true&rank_icon=percentile&text_bold=false&title_color=1155aa&text_color=666666&icon_color=66ccff&hide_border=true" /></picture>
 
 <picture>
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/vieitesss/vieitesss/refs/heads/github-breakout/images/breakout-dark.svg" />
