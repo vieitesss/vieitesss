@@ -13,9 +13,9 @@
 #### 🟦 [**LinkedIn**](https://www.linkedin.com/in/daniel-vieites/)
 #### 📩 [**Mail**](mailto:dviteitest@gmail.com)
 ---
-- 💼 Platform Engineer (>1 years)
-- 😍 Neovim user (>5 years)
-- 💻 Terminal
+- 💼 Platform Engineer (>2 years)
+- 😍 Neovim user (>6 years)
+- 🐧 Linux
 - 🐳 Docker
 - ⚓ Kubernetes
 - ⛵ Helm
@@ -27,7 +27,6 @@
 - 📖 Reading
 - 🖋️ Writing
 - 🧗‍♂️ Climbing
-- 🏋️‍♂️ Gym
 <!--
 **vieitesss/vieitesss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
