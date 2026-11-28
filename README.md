@@ -16,6 +16,7 @@
 
 - ✏️ [**esbozo**](https://github.com/vieitesss/esbozo): Draw diagrams in paper.
 - 🤖 [**recado**](https://github.com/vieitesss/recado): Make your agents communicate between each other.
+- 📝 [**revisa.nvim**](https://github.com/vieitesss/revisa.nvim): Neovim plugin to leave comments on buffers and send them to your agents.
 - ⚖️ [**minifugit.nvim**](https://github.com/vieitesss/minifugit.nvim): Neovim plugin to review git diffs.
 - 🎣 [**miniharp.nvim**](https://github.com/vieitesss/miniharp.nvim): Neovim plugin, minimalist implementation based on [harpoon](https://github.com/ThePrimeagen/harpoon/tree/harpoon2).
-- ⋅ [**dotfiles**](https://github.com/vieitesss/dotfiles): My dotfiles (Mac and Linux).
+- 📑 [**dotfiles**](https://github.com/vieitesss/dotfiles): My dotfiles (Mac and Linux).
