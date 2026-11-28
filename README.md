@@ -9,35 +9,13 @@
 </p>
 
 ---
-#### 📑 [**My blog**](https://vieitesss.github.io)
+#### 📑 [**My blog**](https://sb.github.io)
 #### 🟦 [**LinkedIn**](https://www.linkedin.com/in/daniel-vieites/)
 #### 📩 [**Mail**](mailto:dviteitest@gmail.com)
 ---
-- 💼 Platform Engineer (>2 years)
-- 😍 Neovim user (>6 years)
-- 🐧 Linux
-- 🐳 Docker
-- ⚓ Kubernetes
-- ⛵ Helm
-- 🚀 Dagger
-- 📜 Scripting
-- 💙 Go
-- 👊 Bash
----
-- 📖 Reading
-- 🖋️ Writing
-- 🧗‍♂️ Climbing
-<!--
-**vieitesss/vieitesss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✏️ [**esbozo**](https://github.com/vieitesss/esbozo): Draw diagrams in paper.
+- 🤖 [**recado**](https://github.com/vieitesss/recado): Make your agents communicate between each other.
+- ⚖️ [**minifugit.nvim**](https://github.com/vieitesss/minifugit.nvim): Neovim plugin to review git diffs.
+- 🎣 [**miniharp.nvim**](https://github.com/vieitesss/miniharp.nvim): Neovim plugin, minimalist implementation based on [harpoon](https://github.com/ThePrimeagen/harpoon/tree/harpoon2).
+- ⋅ [**dotfiles**](https://github.com/vieitesss/dotfiles): My dotfiles (Mac and Linux).
